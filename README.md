@@ -1,2 +1,2 @@
-# Krinal
-Projects
+# 3 Factor Authentication using RFID-based Access Control
+This project presents a design scheme that combines embedded technology with RFID based on Raspberry Pi. This system provides 3-factor authentication using RFID tags, scanners, PINs, and SMS. From the test, the system demonstrates the implementation of an authentication function with many features including easy-to-operate, fast identification, and high data security. Raspberry Pi OS, based on Debian Bullseye, Raspberry Pi OS is an open-source operating system tailored for the Raspberry Pi single-board computer used to implement the authentication access control system. It is optimized to offer improved functionality and compatibility with peripherals like keyboards, mice, and displays. We achieved the 3-factor authentication using Raspberry Pi along with the 3 factors, which are RFID tags and readers, PIN, and SMS and laid out the access providing the system with security.
